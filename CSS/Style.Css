@@ -1,0 +1,39 @@
+.card1{
+background-color: white;
+width: 350px;
+border: 2px solid black;
+border-radius: 6px;
+margin: 6px;
+}
+.card1 h3 {
+    color: rgb(210,140,6);
+}
+.text_section{
+    padding: 22px;
+}
+.card1 img{
+    height: 100%;
+    width: 100%;
+    border-radius: 2px 2px 0px 0px;
+}
+.container{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 80px;
+}
+button{
+    padding: 13px;
+    border: 2px solid #d45a03;
+    border-radius: 10px;
+    background-color: white;
+}
+button:hover{
+    background-color: red;
+    border: none;
+}
+a {
+     text-decoration: none;
+     color: black;
+     font-weight: 600px;
+}
